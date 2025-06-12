@@ -1,7 +1,6 @@
 # djangkt
 
-![screenshot](https://github.com/handyc/djangkt/raw/main/static/webapp/img/screenshot.png "app screenshot example")
-
+[![screenshot](https://github.com/handyc/djangkt/raw/main/static/webapp/img/screenshot.png "app screenshot example")](https://htmlpreview.github.io/?https://raw.githubusercontent.com/handyc/djangkt/refs/heads/main/interface/webapp/templates/index.html)
 
 a Django template kit for making area studies / language / linguistics projects quickly
 
