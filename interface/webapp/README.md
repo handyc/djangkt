@@ -1,0 +1,8 @@
+# djangkt
+web app example
+
+#
+
+#
+
+#
