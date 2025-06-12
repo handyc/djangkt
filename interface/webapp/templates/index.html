@@ -91,7 +91,7 @@ stringarray.push(generateRandomLanguage());
 document.getElementById("textInput").addEventListener("keydown", (event) => changeDown(event));
 document.getElementById("textInput").addEventListener("keyup", (event) => changeUp(event));
 
-function changeUp() {
+function changeUp(event) {
 changeBackgroundColor();
 }
 
